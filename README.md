@@ -131,5 +131,7 @@ As embodiments of grace, beauty, and purity, the Skaan fulfill an angel-like rol
 Habitat.
 The Skaan share territory with the Ueban, a separate humanoid species specialized for cliff-dwelling and climbing. This shared ecological niche has led to significant interaction between the two species.
 ```
+![Skaan](./Skaan.png)
+Their wings are indeed massive.
 
 Ray Vietii 2025
